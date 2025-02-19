@@ -1,6 +1,11 @@
 # Diogo_Franjosi 
 Olá! Me chamo Diogo e ajudo a Eli nos tutoriais de Git e Github.
 
+Tenho técnico em TI, concluído no ITB-Instituto Técnico de Barueri.
+
+Atualmente estou estudando Análise e Desenvolvimento de Sistemas na universidade UNIP-APLHAVILLE, e estou à procura do meu primeiro emprego nesse ramo.
+
+
 ## Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diogofranjosi/) 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DiogoFranjosi)
